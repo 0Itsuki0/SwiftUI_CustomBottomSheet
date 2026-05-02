@@ -2,7 +2,7 @@
 
 A custom bottom sheet that is presentable from any nested view without hard coding any screen size/safe area insets.
 
-For more details, please refer to my blog [SwiftUI: Custom Bottom Sheet (Because System One Not Attached to Edges Anymore!)]()
+For more details, please refer to my blog [SwiftUI: Custom Bottom Sheet (Because System One Not Attached to Edges Anymore!)](https://medium.com/@itsuki.enjoy/swiftui-custom-bottom-sheet-because-system-one-not-attached-to-edges-anymore-9905862b6421)
 
 Sample Usage:
 
