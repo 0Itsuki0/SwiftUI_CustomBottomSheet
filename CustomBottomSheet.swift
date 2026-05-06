@@ -103,7 +103,7 @@ struct BottomSheet<Content: View>: View {
                 }
             }
         }
-        .ignoresSafeArea(edges: .all)
+        .ignoresSafeArea(.container, edges: .all)
     }
 
     private func sheet(_ geo: GeometryProxy) -> some View {
